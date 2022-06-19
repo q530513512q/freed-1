@@ -2,6 +2,8 @@
 Peppa Pig,https://ytm2.yuanhsing.cf/PeppaPig.m3u8
 Lion Family,https://ytm2.yuanhsing.cf/LionFamily.m3u8
 Lion Family English,https://ytm2.yuanhsing.cf/LionFamily2.m3u8
+Masha and the Bear,https://ytm2.yuanhsing.cf/MashaandtheBear.m3u8
+Masha and the Bear2,https://ytm2.yuanhsing.cf/MashaandtheBear2.m3u8
 Wolfoo's stories,https://ytm2.yuanhsing.cf/Wolfoosstories.m3u8
 Pea Pea Korea,https://ytm2.yuanhsing.cf/PeaPeaKorea.m3u8
 Oddbods & FRIENDS,https://ytm2.yuanhsing.cf/OddbodsFRIENDS.m3u8
